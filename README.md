@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @anniechacon
-- 👀 I’m interested in merging social education with programming and embroidery, aiming to create inclusive tools that foster learning and creative expression in diverse communities. This unique combination opens doors to innovation and empowerment through technical knowledge and social skills.
+Hi there! 👋 I’m Annie
+
+I’m interested in merging social education with programming and embroidery, aiming to create inclusive tools that foster learning and creative expression in diverse communities. This unique combination opens doors to innovation and empowerment through technical knowledge and social skills.
+
 - 🌱 I’m currently learning to program in Java and SQL.
 - 💞️ I’m looking to collaborate on social projects.
 - 📫 How to reach me: anabel_chacon@hotmail.es
