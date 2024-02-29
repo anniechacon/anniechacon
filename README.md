@@ -4,7 +4,6 @@ I’m interested in merging social education with programming and embroidery, ai
 
 - 🌱 I’m currently learning to program in Java and SQL.
 - 💞️ I’m looking to collaborate on social projects.
-- 📫 How to reach me: anabel_chacon@hotmail.es
 - 😄 Pronouns: she/her
   
 
